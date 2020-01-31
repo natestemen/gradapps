@@ -19,7 +19,7 @@ I'm applied for masters and phd programs for fall 2020 admissions. Mostly math p
 | [University of Oregon](oregon/)            | Mathematics      | PhD    | ❓     | ❓       |
 | [University of Pittsburgh](pitt/)          | Mathematics      | PhD    | ❓     | ❓       |
 | [University of Washington](washington/)    | Applied Math     | PhD    | 👇🏻     | ❓       |
-| [University of Waterloo](waterloo/)        | Mathematics      | MSc    | ❓     | ❓       |
+| [University of Waterloo](waterloo/)        | Mathematics      | MSc    | ✅     | ❓       |
 | [Vrije Universiteit Amsterdam](amsterdam/) | Mathematics      | Msc    | ❓     | ❓       |
 
 - ❌ = rejected
