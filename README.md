@@ -16,7 +16,7 @@ I'm applied for masters and phd programs for fall 2020 admissions. Mostly math p
 | [University of Copenhagen](copenhagen/)    | Mathematics      | MSc    | ❓     | ❓       |
 | [University of Hawai'i](hawaii/)           | Mathematics      | PhD    | ❓     | ❓       |
 | [University of Helsinki](helsinki/)        | Mathematics      | MSc    | ❓     | ❓       |
-| [University of Oregon](oregon/)            | Mathematics      | PhD    | ❓     | ❓       |
+| [University of Oregon](oregon/)            | Mathematics      | PhD    | ❌     | ❌       |
 | [University of Pittsburgh](pitt/)          | Mathematics      | PhD    | ❓     | ❓       |
 | [University of Washington](washington/)    | Applied Math     | PhD    | 👇🏻     | ❓       |
 | [University of Waterloo](waterloo/)        | Mathematics      | MSc    | ✅     | ❓       |
