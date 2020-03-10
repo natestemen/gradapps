@@ -9,7 +9,7 @@ I'm applied for masters and phd programs for fall 2020 admissions. Mostly math p
 |--------------------------------------------|------------------|--------|--------|----------|
 | [Brown University](brown/)                 | Mathematics      | PhD    | ❌     | ❌       |
 | [Caltech](caltech/)                        | Applied Math     | PhD    | ❌     | ❌       |
-| [Carnegie Mellon University](cmu/cs/)      | Computer Science | PhD    | ❓     | ❓       |
+| [Carnegie Mellon University](cmu/cs/)      | Computer Science | PhD    | ❌     | ❌       |
 | [Carnegie Mellon University](cmu/phil/)    | Philosophy       | PhD    | 👇🏻     | ❓       |
 | [KTH + Stockholm University](kth/)         | Mathematics      | MSc    | ❓     | ❓       |
 | [UBC](ubc/)                                | Mathematics      | MSc    | ❓     | ❓       |
