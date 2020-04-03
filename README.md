@@ -11,7 +11,7 @@ I'm applied for masters and phd programs for fall 2020 admissions. Mostly math p
 | [Caltech](caltech/)                        | Applied Math     | PhD    | ❌     | ❌       |
 | [Carnegie Mellon University](cmu/cs/)      | Computer Science | PhD    | ❌     | ❌       |
 | [Carnegie Mellon University](cmu/phil/)    | Philosophy       | PhD    | 👇🏻     | ❓       |
-| [KTH + Stockholm University](kth/)         | Mathematics      | MSc    | ❓     | ❓       |
+| [KTH + Stockholm University](kth/)         | Mathematics      | MSc    | ✅     | ❓       |
 | [UBC](ubc/)                                | Mathematics      | MSc    | ❓     | ❓       |
 | [University of Copenhagen](copenhagen/)    | Mathematics      | MSc    | ❌     | ❌       |
 | [University of Hawai'i](hawaii/)           | Mathematics      | PhD    | ❓     | ❓       |
