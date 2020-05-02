@@ -10,7 +10,7 @@ I'm applied for masters and phd programs for fall 2020 admissions. Mostly math p
 | [Brown University](brown/)                 | Mathematics      | PhD    | ❌     | ❌       |
 | [Caltech](caltech/)                        | Applied Math     | PhD    | ❌     | ❌       |
 | [Carnegie Mellon University](cmu/cs/)      | Computer Science | PhD    | ❌     | ❌       |
-| [Carnegie Mellon University](cmu/phil/)    | Philosophy       | PhD    | 👇🏻     | ❌       |
+| [Carnegie Mellon University](cmu/phil/)    | Philosophy       | PhD    | 💲     | ❌       |
 | [KTH + Stockholm University](kth/)         | Mathematics      | MSc    | ✅     | ❌       |
 | [UBC](ubc/)                                | Mathematics      | MSc    | ⁉️      | ❌       |
 | [University of Copenhagen](copenhagen/)    | Mathematics      | MSc    | ❌     | ❌       |
@@ -18,7 +18,7 @@ I'm applied for masters and phd programs for fall 2020 admissions. Mostly math p
 | [University of Helsinki](helsinki/)        | Mathematics      | MSc    | ✅     | ❌       |
 | [University of Oregon](oregon/)            | Mathematics      | PhD    | ❌     | ❌       |
 | [University of Pittsburgh](pitt/)          | Mathematics      | PhD    | ✅     | ❌       |
-| [University of Washington](washington/)    | Applied Math     | PhD    | 👇🏻     | ❌       |
+| [University of Washington](washington/)    | Applied Math     | PhD    | 💲     | ❌       |
 | [University of Waterloo](waterloo/)        | Mathematics      | MSc    | ✅     | ✅       |
 | [Vrije Universiteit Amsterdam](amsterdam/) | Mathematics      | Msc    | ✅     | ❌       |
 
