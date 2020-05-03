@@ -25,7 +25,6 @@ I'm applied for masters and phd programs for fall 2020 admissions. Mostly math p
 - ❌ = rejected
 - 💲 = rejected from PhD and offered a masters spot which requires tuition and no stipend
 - ✅ = accepted!
-- ❓ waiting
 - ⁉️ still haven't heard back
 
 That makes 8 PhD programs and 6 Masters programs for a total of 14 programs. It was probably a few more than I really needed to apply to, but as mentioned above, I really wasn't sure how strong my application was. Applying cost me a total of about $1300 with the cost of each application being about $90 and then having to send official GRE scores to a few programs. See [GRE stuff](#gre-stuff) for more info on my GRE's.
