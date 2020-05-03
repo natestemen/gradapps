@@ -71,3 +71,6 @@ Because I was unwilling (or really just didn't want to) to take the math subject
 ### other
 
 If you found any of this useful or interesting, great! If you have any questions regard my apps or grad apps in general, feel free to open an issue and we can have an open discussion about grad apps. If you'd prefer to keep things private, of course feel free to reach out to me at [nate@stemen.email](mailto:nate@stemen.email).
+
+
+If you look at the git history for this repo, you'll see dates for each acceptance/rejection. While I updated this repo occasionally while hearing back from schools, I onlly went back after the fact to clean up the git history and change the dates to the exact date and time I recieved letters/emails from schools about their decision. This was wholly unecessary, but at least I can say it helped improve my git rebase and cherry-pick skills. I also used [`gitup`](https://gitup.co/) quite a bit which helped a lot.
