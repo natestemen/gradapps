@@ -1,4 +1,6 @@
-This repo provides an overview of my attempt to get into grad school for fall 2020 admission. I'm putting my application materials and results online because I think it would have helped me gauge where to apply if I could see others' applications/results. Hopefully my application and results can help others build a successful application. 
+This repo provides an overview of my attempt to get into grad school for fall 2020 admission. I'm putting my application materials and results online because I think it would have helped me gauge where to apply if I could see others' applications/results. Hopefully my application and results can help others build a successful application.
+
+If you find this helpful, and end up putting your grad app material on github, let me know and I'll put a link here.
 
 # grad apps
 
