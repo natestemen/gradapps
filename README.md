@@ -4,7 +4,7 @@ If you find this helpful, and end up putting your grad app material on github, l
 
 # grad apps
 
-I'm applied for masters and phd programs for fall 2020 admissions. Mostly math programs, but one computer science and philosophy program also. It was rather hard for me to judge how good my application was as compared to others, which made it hard to pick schools. This was only exacerbated by the fact that I took a job after undergrad, and I wasn't sure how that affected the strength of my application.
+I've applied for masters and phd programs for fall 2020 admissions. Mostly math programs, but one computer science and philosophy program also. It was rather hard for me to judge how good my application was as compared to others, which made it hard to pick schools. This was only exacerbated by the fact that I took a job after undergrad, and I wasn't sure how that affected the strength of my application.
 
 ## schools and results
 | School                                     | Department       | Degree | Status | Decision |
